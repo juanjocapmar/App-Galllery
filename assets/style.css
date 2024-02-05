@@ -1,0 +1,7 @@
+
+/* Style of new.inc.php */
+@media (min-width: 1025px) {
+    .h-custom {
+    height: 100vh !important;
+    }
+}
